@@ -3,6 +3,8 @@
 
 Simple command line app that fetches a fun fact from  <https://catfact.ninja/#/Facts> - a simple project to start learning java
 
+<img width="703" alt="Screenshot 2025-03-21 at 20 38 13" src="https://github.com/user-attachments/assets/bc599182-f043-43db-a800-102f02335990" />
+
 # Set up repo
 
 brew install maven
